@@ -3,3 +3,17 @@ body {
   height: 100%;
   margin: 0;
 }
+section {
+  text-align: center;
+}
+header {
+  text-align: center;
+}
+div {
+  float: left;
+  width: 25%;
+  background-color: blueviolet;
+}
+figcaption {
+  font-size: 10px;
+}
